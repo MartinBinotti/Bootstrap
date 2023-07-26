@@ -1,0 +1,15 @@
+.row{
+    background-color: rgb(255, 178, 91);
+    border: 3px solid rgb(153, 102, 194);
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+.columna{
+    background-color: rgb(96, 51, 179);
+    color: white;
+    font-size: 50px;
+    border: 2px solid gray;
+    text-align: center;
+}
